@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\VisualStudio\Wordle\Wordle\main.cpp(60,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\VisualStudio\Wordle\Wordle\main.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\VisualStudio\Wordle\Wordle\main.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,42): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,42): warning C4309: 'argument': truncation of constant value
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,37): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,37): warning C4309: 'argument': truncation of constant value
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,32): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\VisualStudio\Wordle\Wordle\main.cpp(107,32): warning C4309: 'argument': truncation of constant value
+C:\VisualStudio\Wordle\Wordle\main.cpp(144,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\VisualStudio\Wordle\Wordle\main.cpp(144,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Wordle.vcxproj -> C:\VisualStudio\Wordle\x64\Debug\Wordle.exe
